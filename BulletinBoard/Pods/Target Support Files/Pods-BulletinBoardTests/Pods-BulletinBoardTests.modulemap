@@ -1,0 +1,6 @@
+framework module Pods_BulletinBoardTests {
+  umbrella header "Pods-BulletinBoardTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
